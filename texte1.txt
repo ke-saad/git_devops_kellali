@@ -1,0 +1,25 @@
+Git est un système de contrôle de version distribué, largement utilisé pour le suivi des modifications dans les projets de développement logiciel. Il permet à plusieurs personnes de travailler sur un même projet en même temps, en gérant efficacement les modifications apportées aux fichiers.
+
+Voici quelques points clés à retenir sur Git :
+
+1. **Décentralisé** : Chaque utilisateur qui travaille sur un projet Git dispose d'une copie complète du dépôt, ce qui permet de travailler localement sans connexion Internet. Les utilisateurs peuvent fusionner leurs modifications ultérieurement.
+
+2. **Historique des versions** : Git enregistre l'historique complet des modifications apportées à un projet, y compris qui a effectué chaque modification et quand.
+
+3. **Branches** : Git permet de créer des branches, ce qui permet de travailler sur des fonctionnalités isolées ou des correctifs sans affecter la branche principale du projet. Les branches peuvent être fusionnées une fois que le travail est terminé.
+
+4. **Collaboration** : Git facilite la collaboration entre les membres d'une équipe de développement. Les développeurs peuvent travailler sur des branches séparées et fusionner leurs modifications lorsqu'elles sont prêtes.
+
+5. **Services d'hébergement** : Il existe de nombreux services d'hébergement de dépôts Git, tels que GitHub, GitLab et Bitbucket, qui offrent des fonctionnalités supplémentaires telles que le suivi des problèmes, les demandes d'extraction et l'intégration continue.
+
+6. **Commandes de base** :
+   - `git init`: Initialise un nouveau dépôt Git dans un répertoire.
+   - `git clone`: Clone un dépôt Git existant sur votre machine.
+   - `git add`: Ajoute des modifications de fichiers à l'index.
+   - `git commit`: Enregistre les modifications de l'index dans l'historique du dépôt.
+   - `git push`: Envoie les modifications locales vers un dépôt distant.
+   - `git pull`: Récupère les modifications d'un dépôt distant et les fusionne dans votre branche locale.
+   - `git branch`: Gère les branches du dépôt.
+   - `git merge`: Fusionne les modifications d'une branche dans une autre.
+
+Git est un outil puissant et essentiel pour la gestion des versions de code source et est largement utilisé dans le développement logiciel moderne. Si vous avez des questions spécifiques sur l'utilisation de Git ou sur ses fonctionnalités, n'hésitez pas à demander !
